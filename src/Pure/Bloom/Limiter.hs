@@ -1,5 +1,5 @@
 {-# language OverloadedStrings #-}
-module Pure.Bloom.Limiter (allowedWith,allowed,limitWith,limit,testLimiter) where
+module Pure.Bloom.Limiter (allowedWith,allowed,limitWith,limit) where
 
 import Pure.Bloom.Scalable
 import Pure.Data.Time
